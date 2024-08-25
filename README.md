@@ -32,23 +32,23 @@ Make sure you have the following installed on your system:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cnapp-dashboard.git
-cd cnapp-dashboard
+git clone https://github.com/your-username/cnapp-dashboard.git](https://github.com/Amitmeel01/AccuKnox-Assignment.git
+cd AccuKnox-Assignment
 ```
 
 ### Install Dependencies
 
-```bash
+
 npm install
-```
+
 
 ## Running the Application
 
 To start the development server, run:
 
-```bash
-npm start
-```
+
+npm run dev
+
 
 This will start the app on `http://localhost:3000`. Open this URL in your browser to view the dashboard.
 
@@ -62,23 +62,11 @@ This will start the app on `http://localhost:3000`. Open this URL in your browse
 
 ## How to Use
 
-1. **Search Widgets**: Use the search bar in the header to find specific widgets.
-2. **Add Widgets**: Click on "Add Widget +" to open the sidebar and add new widgets to the dashboard.
-3. **Reload**: Use the reload button to refresh the data displayed by the widgets.
-4. **Time Filter**: Adjust the time filter using the button in the header to view data for different time ranges.
 
-## Contributing
+1. **Add Widgets**: Click on "Add Widget +" to open the sidebar and add new widgets to the dashboard.
+2. **Reload**: Use the reload button to refresh the data displayed by the widgets.
+3. **Time Filter**: Adjust the time filter using the button in the header to view data for different time ranges.
 
-Contributions are welcome! If you have any ideas, suggestions, or issues, please submit them via GitHub Issues or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or concerns, please contact:
-
-- Name: Amit Meel
 
 
