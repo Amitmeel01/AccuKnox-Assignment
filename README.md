@@ -10,7 +10,8 @@ The **CNAPP Dashboard** is a web application that provides a comprehensive inter
 - **CWPP**: Cloud Workload Protection Platform
 - **Registry Scan**: Manage and monitor registry scans
 - **Ticket Scan**: Manage and monitor tickets
-- **Search**: Easily search for widgets within the dashboard
+- **Search**: Easily search for widgets within the dashboard![Screenshot 2024-08-25 131039](https://github.com/user-attachments/assets/45aa0acf-9924-4ae1-9bd9-62c76facfc83)
+
 - **Dynamic Widget Management**: Add or remove widgets dynamically
 
 ## Tech Stack
