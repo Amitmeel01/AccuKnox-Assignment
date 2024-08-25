@@ -20,6 +20,8 @@ function Body() {
     setIsVisible(false);
   };
 
+  
+
   return (
     <>   
       <div className={isVisible ? 'h-full sw-full bg-zinc-200 pt-32 pb-8 bg-opacity-15' : 'h-full sw-full bg-zinc-400 pt-32 pb-8'}>
@@ -30,7 +32,7 @@ function Body() {
        
         <div className='flex items-center justify-center gap-4'>
           <button className='p-2 border-2 border-zinc-200 flex bg-white text-sm' onClick={handleOpenSidebar}>Add Widget +</button>
-          <button className='p-2 border-2 border-zinc-200 flex bg-white'>
+          <button className='p-2 border-2 border-zinc-200 flex bg-white' onClick={()=>window.location.reload()}>
             <TfiReload />
           </button>
           <button className='p-2 border-2 border-zinc-200 flex bg-white'>

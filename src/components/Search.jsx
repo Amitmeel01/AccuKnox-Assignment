@@ -6,7 +6,7 @@ function Search({ onSearch }) {
 
   useEffect(() => {
     if (typeof onSearch === 'function') {
-    //   onSearch(searchQuery);
+      onSearch(searchQuery);
     } else {
       console.error('onSearch prop is not a function');
     }
