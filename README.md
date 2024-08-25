@@ -5,6 +5,7 @@
 The **CNAPP Dashboard** is a web application that provides a comprehensive interface for managing and monitoring cloud-native applications. It includes various widgets for monitoring different aspects like CSPM (Cloud Security Posture Management), CWPP (Cloud Workload Protection Platform), Registry Scans, and Ticket Management.
 
 ## Features
+![Screenshot 2024-08-25 131210](https://github.com/user-attachments/assets/eefc7ee8-c6fb-4b7a-b11e-4e3fa95d2825)
 
 - **CSPM**: Cloud Security Posture Management
 - **CWPP**: Cloud Workload Protection Platform
